@@ -1,16 +1,19 @@
-### Hi there 👋
+### Enbasic
 
-<!--
-**enbasic/Enbasic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enbasic - Công ty thiết kế, thi công kiến trúc nội thất uy tín hàng đầu
 
-Here are some ideas to get you started:
+Với đội ngũ Kiến trúc sư, Kỹ sư có chuyên môn cao trong ngành, EnHome luôn mong muốn đưa ra giải pháp thiết kế kiến trúc tốt và phù hợp nhất cho khách hàng.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Địa chỉ: 30 Tiểu La, Hòa Cường Bắc, Hải Châu, Đà Nẵng
+
+- SĐT: 0876 68 68 69
+
+https://enbasic.vn/
+
+https://www.pinterest.com/enbasicvn/
+
+https://vimeo.com/enbasic
+
+https://www.linkedin.com/in/enbasic/
+
+https://linkhay.com/link/7240853/enbasic
